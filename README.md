@@ -1,4 +1,4 @@
-# Program Flow - Module Project
+# Functions - Module Project
 
 ## Instructions
 
